@@ -18,6 +18,10 @@ Urea is waste product excreted in urine by animals. Some enteric bacteria produc
 
 &nbsp;
 
+<img src="images/urease.png" title="" />
+
+
+
 Urease, which is produced by some micro organisms, is an enzyme that is especially helpful in the identification of Proteus vulgaris, although other organisms may produce urease, their action on the substrate urea tends to be slower than that seen with Proteus species. Therefore this test serves to rapidly distinguish members of this genus from other lactose non fermenting enteric microorganisms.
 
  
