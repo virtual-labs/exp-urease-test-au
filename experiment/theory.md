@@ -5,7 +5,6 @@ Urea is a nitrogen containing compound that is produced during decarboxylation o
 While many enteric bacteria have the ability to hydrolyze urea as part of their metabolism, members of the genus Proteus are considered rapid urease producers due their efficiency in carrying out this process. Therefore, this experiment is useful in distinguishing members of Proteus, a urinary tract pathogen, from other enterics based on their ability to rapidly hydrolyze urea. Many enterics can hydrolyze urea but only a few can degrade  it rapidly. These are commonly referred  as "rapid urease-positive" organisms. Members of the genus Proteus have the ability to hydrolyze urea rapidly.
 
 &nbsp;
-
 ### Rapid Urease Test:
  
 Also known as the CLO test (Campylobacter-like organism test), is a rapid test for diagnosis of Helicobacter pylori. The basis of the test is the ability of H. pylori to secrete the urease enzyme, which catalyzes the conversion of urea to ammonia and bicarbonate.
@@ -15,8 +14,6 @@ Also known as the CLO test (Campylobacter-like organism test), is a rapid test f
 ### Urea Hydrolysis:
  
 Urea is waste product excreted in urine by animals. Some enteric bacteria produce the enzyme urease, which splits the urea molecule into carbon dioxide and ammonia. The urease test is useful in identifying the genera Proteus, Providentia, and Morganella, which liberate this enzyme.
-
-&nbsp;
 
 <img src="images/urease.png" title="" />
 
