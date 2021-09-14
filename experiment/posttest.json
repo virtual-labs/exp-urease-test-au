@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  The formation of pink colour is the negative result of urease test ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The pH indicator in urease test is :  ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "methyl red",
+        "b": "phenolphthalein",
+        "c": "bromothymol blue",
+        "d": "phenol red"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3. When urease is produced by the organism, _______ is released and the pH of the urea slant becomes________",
+      "answers": {
+        "a": "urea, acidic",
+        "b": "ammonia, alkaline",
+        "c": "uric acid, acidic",
+        "d": "both b) and c)"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Which one of the following statement is true: ",
+        "answers": {
+          "a": "The urease test identifies Proteus vulgaris",
+          "b": "The pH indicator used in the urease test is methyl red",
+          "c": "SIM medium is used for urease test",
+          "d": "both 1) and 2)"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
