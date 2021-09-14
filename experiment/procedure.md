@@ -61,3 +61,29 @@ Using a sterile technique, inoculate each experimental organism into its appropr
 
 <img src="images/urease1.png" title="" />
 
+
+&nbsp;
+
+
+### b) Urea Slant method:
+ 
+
+1. Sterilize the loop in the blue flame of the Bunsen burner till red hot and then allowed to cool.
+
+2. Take out a loopful organism from the tryptic broth culture tube with the cooled loop aseptically.
+
+3. Again flame the neck of the tube and replace the tube in the test tube rack.
+
+4. Take a sterile urea slant tube remove the cap and flame the neck of the tube.
+
+5. Inoculate the entire surface of the urea slant (slope) with the provided growth from the tryptic broth culture using the inoculating loop (do not stab the butt). The slant of the medium is inoculated by streaking the surface of the agar in a zigzag manner.
+
+6. Again flame the neck of the urea tube and place it in the test tube rack.
+
+7. Tighten the cap and incubate at 37°C for 24-48 hours.
+
+8. Obtain the tubes from the incubator and observe the colour change.
+
+<img src="images/urease2.png" title="" />
+
+
