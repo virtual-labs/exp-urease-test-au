@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  The formation of pink colour is the negative result of urease test ",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The pH indicator in urease test is :  ",
+      "answers": {
+        "a": "methyl red",
+        "b": "phenolphthalein",
+        "c": "bromothymol blue",
+        "d": "phenol red"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. When urease is produced by the organism, _______ is released and the pH of the urea slant becomes________",
+      "answers": {
+        "a": "urea, acidic",
+        "b": "ammonia, alkaline",
+        "c": "uric acid, acidic",
+        "d": "both b) and c)"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Which one of the following statement is true: ",
+        "answers": {
+          "a": "The urease test identifies Proteus vulgaris",
+          "b": "The pH indicator used in the urease test is methyl red",
+          "c": "SIM medium is used for urease test",
+          "d": "both 1) and 2)"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
