@@ -1,14 +1,15 @@
 ### Materials Required:
  
 
-### Cultures:
+#### Cultures:
 24-48 hours tryptic soy broth cultures.
 
 
 
-### Media:
+#### Media:
  
 Urea broth.
+
 Urea slant.
 
  
@@ -16,8 +17,11 @@ Urea slant.
 ### Equipments:
  
 Bunsen burner.
+
 Inoculating loop.
+
 Test tubes.
+
 Marking pen.
  
 
@@ -58,6 +62,8 @@ Using a sterile technique, inoculate each experimental organism into its appropr
 
 8. Obtain the broths from the incubator and observe the colour.
 
+&nbsp;
+
 
 <img src="images/urease1.png" title="" />
 
@@ -83,6 +89,10 @@ Using a sterile technique, inoculate each experimental organism into its appropr
 7. Tighten the cap and incubate at 37°C for 24-48 hours.
 
 8. Obtain the tubes from the incubator and observe the colour change.
+
+
+&nbsp;
+
 
 <img src="images/urease2.png" title="" />
 

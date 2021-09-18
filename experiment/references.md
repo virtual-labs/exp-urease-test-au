@@ -1,7 +1,3 @@
-## References
-
-&nbsp;
-
 ## Textbooks:
  
 1.	Cappuccino G .James, Sherman Natalie, Microbiology A laboratory manual, seventh edition, Pearson Education
@@ -18,7 +14,7 @@
 
 &nbsp;
  
-### Webliography:
+## Webliography:
  
 1.	http://www.atsu.edu/faculty/chamberlain/Website/lab/idlab/urease.htm
 
