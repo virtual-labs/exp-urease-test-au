@@ -14,7 +14,7 @@ Urea slant.
 
  
 
-### Equipments:
+#### Equipments:
  
 Bunsen burner.
 
@@ -25,7 +25,7 @@ Test tubes.
 Marking pen.
  
 
-### Media Preparation:
+#### Media Preparation:
  
 Urea test broth is prepared by adding 20 g of urea, 9.5 g of Na2HPO4, 9.1 g of KH2PO4, 0.1g of yeast extract and 0.01 g of phenol red. The pH is made to 6.8±0.2 at 25°c.
 
